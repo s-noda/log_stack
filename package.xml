@@ -1,0 +1,10 @@
+<package>
+  <name>log_stack</name>
+  <description>
+    log_stack
+  </description>
+  <author email="s-noda@jsk.t.u-tokyo.ac.jp">s-noda</author>
+  <maintainer email="s-noda@jsk.t.u-tokyo.ac.jp">s-noda</maintainer>
+  <license>NYLS</license>
+  <version>0.0.1</version>
+</package>
