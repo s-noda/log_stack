@@ -1,4 +1,4 @@
-#s-noda log_stack
+#USAGE
 
 ```
 rosrun log_stack run_log.sh "tmp" "hoge" "commit from outer dir"
@@ -8,7 +8,7 @@ input: tag, filename
 
 output: mkdir tag; cp filename; git add tag; git commit tag; git push filename
 
-#Recommend
+#RECOMMEND
 ```
 git remote set-url origin git@github.com:s-noda/log_stack.git
 ```
